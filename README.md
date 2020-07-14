@@ -52,7 +52,9 @@ For now, just follow along the video and code exercise below to get an idea how 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
 
+;lkmvfs;lkvmdfk;lvnfdvklnklrsnsklslkskvsmvfsvmsr;mel;amel;cs
 
+kmc;sdmcs;dlmcsl;cms
 
 
 This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
